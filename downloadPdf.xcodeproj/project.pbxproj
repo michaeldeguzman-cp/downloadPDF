@@ -16,6 +16,7 @@
 		CF9A9E2C2893D8D60045244B /* downloadPdfTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF9A9E2B2893D8D60045244B /* downloadPdfTests.swift */; };
 		CF9A9E362893D8D60045244B /* downloadPdfUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF9A9E352893D8D60045244B /* downloadPdfUITests.swift */; };
 		CF9A9E382893D8D60045244B /* downloadPdfUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF9A9E372893D8D60045244B /* downloadPdfUITestsLaunchTests.swift */; };
+		CF9A9E452893DABA0045244B /* PDFViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF9A9E442893DABA0045244B /* PDFViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		CF9A9E312893D8D60045244B /* downloadPdfUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = downloadPdfUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF9A9E352893D8D60045244B /* downloadPdfUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = downloadPdfUITests.swift; sourceTree = "<group>"; };
 		CF9A9E372893D8D60045244B /* downloadPdfUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = downloadPdfUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CF9A9E442893DABA0045244B /* PDFViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PDFViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				CF9A9E1D2893D8D60045244B /* Assets.xcassets */,
 				CF9A9E1F2893D8D60045244B /* LaunchScreen.storyboard */,
 				CF9A9E222893D8D60045244B /* Info.plist */,
+				CF9A9E442893DABA0045244B /* PDFViewController.swift */,
 			);
 			path = downloadPdf;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				CF9A9E192893D8D20045244B /* ViewController.swift in Sources */,
 				CF9A9E152893D8D20045244B /* AppDelegate.swift in Sources */,
 				CF9A9E172893D8D20045244B /* SceneDelegate.swift in Sources */,
+				CF9A9E452893DABA0045244B /* PDFViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
